@@ -1,0 +1,12 @@
+# ninja log v5
+1	25	0	clean	b9884f6fadeb5ce0
+5	673	6849998135219307	CMakeFiles/DSAProject1.dir/password.cpp.obj	e574003a0fc89b59
+11	616	6849988902772605	CMakeFiles/DSAProject1.dir/vignerecypher.cpp.obj	1ff12a765c0f81ba
+5	735	6850006333337804	CMakeFiles/DSAProject1.dir/write.cpp.obj	85b599078af53adc
+938	1128	6850033284541671	DSAProject1.exe	6c6aaa701b975093
+3	799	6850030669330270	CMakeFiles/DSAProject1.dir/main.cpp.obj	ce714a74643539cb
+3	616	6849996672683601	CMakeFiles/DSAProject1.dir/read.cpp.obj	b9a0d71b79aab31e
+7	918	6850006335173302	CMakeFiles/DSAProject1.dir/passserver.cpp.obj	93d540f91dd3fa28
+6	99	6850033274295087	CMakeFiles/DSAProject1.dir/AllTests.cpp.obj	68f5205dee10f1e0
+3	377	6850042123362974	build.ninja	f6af69b29816f1d8
+3	938	6850033282685263	CMakeFiles/DSAProject1.dir/catch.cpp.obj	8d9c1abbd16fb6b8
